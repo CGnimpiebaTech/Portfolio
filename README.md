@@ -20,9 +20,18 @@
 
 ## Technical Skills
 
-    Programming: Python, Java, HTML, CSS, PHP, JavaScript
-    Data Tools: SQL, Apache Hop (ETL), DBeaver, Metabase
-    ERP & BI Systems: SAP S/4HANA, SAP Signavio, SAP Fiori
+  **Programming Languages & Web Development**:  
+  Java, Python, HTML, CSS, PHP, JavaScript, GitLab  
+
+  **Data Tools & Business Intelligence**:  
+  SQL, Apache Hop (ETL), DBeaver, BI Tools: Metabase  
+
+  **ERP & Business Systems**:  
+  SAP S/4HANA, SAP Signavio, SAP Fiori  
+
+  **EDV Tools**:  
+  Microsoft Office (Excel, Word, PowerPoint), LaTeX Editor, WordPress  
+ 
 
 
 
