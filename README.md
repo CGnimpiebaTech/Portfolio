@@ -1,4 +1,4 @@
-# Cristelle Gnimpieba
+# College Student
 
 ## Education
   **Business IT (B.Sc.)**  
