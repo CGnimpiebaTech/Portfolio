@@ -45,7 +45,7 @@ This is my first portfolio, and I hope the projects I’ve worked on over the pa
 
 Thanks for stopping by – I hope you enjoy exploring my work!
 
-![Portfolio Visual 1](assets/img/visual%20selection(1).png)
+![Portfolio Visual 1](assets/img/visualselection(1).png)
 
 ## About this Portfolio
 
@@ -60,4 +60,4 @@ This portfolio showcases the projects I have developed during my time as a Bache
 3. **Optimization and Data Analysis**:  
    Solves practical problems using **Python** and **optimization techniques**, showcasing my analytical abilities.  
 
-![Portfolio Visual 2](assets/img/visual%20selection.png)
+![Portfolio Visual 2](assets/img/visualselection.png)
