@@ -1,3 +1,31 @@
+# Cristelle Gnimpieba
+
+## Education
+  **Business IT (B.Sc.)**  
+  University of Applied Sciences Fulda (Expected: 09/2025)  
+
+## Work Experience
+  **Mathematics Tutor** @ Hochschule Fulda  
+  Supporting students in Mathematics I and II with problem-solving guidance.
+
+  **Student Assistant** @ Applied Computer Science Department, Hochschule Fulda  
+  Collaborated on departmental projects and initiatives.
+
+  **Werkstudentin IT-Consulting** @ Instikom  
+  Managed data analysis, Excel-based reporting, and internet research for consulting projects.
+
+  **Werkstudentin Web Development** @ Web-devinition.de  
+  Developed and maintained WordPress and PHP-based websites.
+
+
+## Technical Skills
+
+    Programming: Python, Java, HTML, CSS, PHP, JavaScript
+    Data Tools: SQL, Apache Hop (ETL), DBeaver, Metabase
+    ERP & BI Systems: SAP S/4HANA, SAP Signavio, SAP Fiori
+
+
+
 # Presentation 
 
 Hi there!
@@ -8,7 +36,7 @@ This is my first portfolio, and I hope the projects I’ve worked on over the pa
 
 Thanks for stopping by – I hope you enjoy exploring my work!
 
-# About this Portfolio
+## About this Portfolio
 
 This portfolio showcases the projects I have developed during my time as a Bachelor student. These projects represent the skills and knowledge I've gained in classes that inspired me, such as data analysis, programming, and business informatics.
 
